@@ -6,3 +6,4 @@ This is an experiment to figure out how complex widgets which maintain their own
 
 The Virtual DOM hooking at the core of this is based on [this example](https://github.com/Raynos/mercury/blob/master/docs/faq.md#how-do-i-do-custom-rendering).
 
+See [the issues](https://github.com/vilterp/elm-gmaps-experiment/issues) for known weirdness.
